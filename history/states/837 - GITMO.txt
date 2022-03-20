@@ -1,0 +1,25 @@
+
+state = {
+	id = 837
+	name = "STATE_837"
+	manpower = 9924
+	
+	state_category = enclave
+
+	history = {
+		owner = USA
+		buildings = {
+		
+			infrastructure = 3
+			13238 = {
+				naval_base = 3
+			}
+		}
+	}
+
+	provinces = {
+		13238
+	}
+
+	local_supplies = 6.0 
+}

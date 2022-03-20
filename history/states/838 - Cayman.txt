@@ -1,0 +1,25 @@
+
+state = {
+	id = 838
+	name = "STATE_838"
+	manpower = 56627
+	
+	state_category = town
+
+	history = {
+		owner = ENG
+		buildings = {
+		
+			infrastructure = 3
+			13239 = {
+				naval_base = 2
+			}
+		}
+	}
+
+	provinces = {
+		13239
+	}
+
+	local_supplies = 6.0 
+}
